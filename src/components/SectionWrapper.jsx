@@ -30,8 +30,7 @@ const SectionWrapper = ({title, description, showButton, mockUpImg, banner, reve
           {showButton && ( 
           <Button 
             assetUrl={assets.expo}
-            link="https://expo.dev/@builtbybo/nft-app?serviceType=classic&distribution=expo-go"
-
+            link="https://expo.dev/@builtbybo/nft-marketplace?serviceType=classic&distribution=expo-go"
           /> )}
 
         </div>
